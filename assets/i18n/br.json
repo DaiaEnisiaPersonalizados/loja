@@ -1,0 +1,11 @@
+{
+  "HELLO": "Olá {{user}}",
+  "SLOGAN": "Eternizando momentos",
+
+  "THEME": "Tema",
+  "LANG": "Idioma",
+  "LANGUAGE": "Idioma",
+  "SELECTED": "Selecionad{{sop}}",
+
+  "BTN_BACK": "Voltar"
+}

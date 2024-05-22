@@ -1,0 +1,11 @@
+{
+  "HELLO": "Hello {{user}}",
+  "SLOGAN": "Capturing moments forever",
+
+  "THEME": "Theme",
+  "LANG": "Lang",
+  "LANGUAGE": "Language",
+  "SELECTED": "Selected{{sop}}",
+
+  "BTN_BACK": "Go back"
+}
