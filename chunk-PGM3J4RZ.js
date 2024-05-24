@@ -1,1 +1,0 @@
-import{f as n}from"./chunk-TFTH57TL.js";import{L as i,O as c,ca as o}from"./chunk-MGJMJS24.js";var p=(()=>{let t=class t extends n{constructor(r){super(r),this.injector=r,this.url="category"}};t.\u0275fac=function(s){return new(s||t)(c(o))},t.\u0275prov=i({token:t,factory:t.\u0275fac});let e=t;return e})();export{p as a};
