@@ -1,0 +1,41 @@
+{
+  "HELLO": "Olá {{user}}",
+  "SLOGAN": "Eternizando momentos",
+
+  "THEME": "Tema",
+  "LANG": "Idioma",
+  "LANGUAGE": "Idioma",
+  "SELECTED": "Selecionad{{sop}}",
+  "SOCIAL_MEDIA": "Redes Sociais",
+  "NOT_FOUND_SOME": "Não achou nada do interesse?",
+  "PRODUCT": "Produto",
+  "PRODUCT_LIST": "Lista de Produtos",
+  "PRODUCT_DATA": "Dados do Produto",
+  "PRODUCT_LIST_ALL": "A lista de produtos pode mostrar tudo e com filtragens customizaveis!",
+  "SHOW_ME": "Mostre-me",
+  "AUTH": "Acesso",
+  "HOME": "Inicio",
+  "NAME": "Nome",
+  "PRICE": "Preço",
+  "AVAILABLE": "Disponível",
+  "REFERENCE": "Referência",
+  "LOGIN": "Logar",
+  "REGISTER": "Criar Conta",
+  "RESET_PASS": "Resetar Senha",
+  "REQUEST_PASS": "Requisitar Acesso",
+  "GO_TO_PRODUCT_LIST": "Ir para a Lista de Produtos",
+  "ADMINISTRATION": "Administração",
+  "ADMIN": "Admin",
+  "USER": "Usuário",
+  "CATEGORY": "Categoria",
+  "CATEGORIES": "Categorias",
+  "FORM": "Criação",
+  "LIST": "Listagem",
+  "TEST_ZONE": "Área de Testes",
+
+  "BUY_MSG_WPP": "Eu vi o produto '{{id}}: {{name}}' e fiquei muito interessada(o)!",
+
+  "DEV_LOG_MSG": "Este site está atualmente em desenvolvimento. Embora os recursos e funcionalidades possam ser limitados, sinta-se à vontade para explorá-lo até a sua finalização",
+
+  "BTN_BACK": "Voltar"
+}
